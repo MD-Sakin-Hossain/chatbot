@@ -30,6 +30,30 @@ function getBotResponse(input) {
     else if (input == "will you marry me?") {
         return "I can't marry a Gay";
     }
+    else if (input == "marry me?") {
+        return "I can't marry a Gay";
+    }
+    else if (input == "Marry me?") {
+        return "I can't marry a Gay";
+    }
+    else if (input == "marry me") {
+        return "I can't marry a Gay";
+    }
+    else if (input == "Marry me") {
+        return "I can't marry a Gay";
+    }
+    
+    
+    
+    else if (input == "i love you") {
+        return "Shut a Fuck up";
+    }
+    else if (input == "I love you") {
+        return "Shut a Fuck up";
+    }
+    
+    
+    
     
     
     
